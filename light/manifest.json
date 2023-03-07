@@ -1,0 +1,14 @@
+{
+  "short_name": "Eizy",
+  "name": "Eizy's portfolio",
+  "icons": [
+    {
+      "src": "/light/android-chrome-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+  }
+  ],
+  "theme_color": "#e7e7e7",
+  "background_color": "#e7e7e7",
+  "display": "standalone"
+}
